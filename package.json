@@ -1,6 +1,6 @@
 {
   "name": "ts-selectors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper library to create typesafe selectors",
   "main": "./dist/index.js",
   "repository": "https://github.com/dudeonyx/ts-selectors",
