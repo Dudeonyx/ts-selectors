@@ -2,6 +2,7 @@ src/
 test/
 examples/
 .vscode/
+coverage/
 jest.config.js
 prettier.config.js
 tsconfig.json
